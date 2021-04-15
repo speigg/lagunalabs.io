@@ -105,7 +105,7 @@ export default function Home() {
                         <div className="pt-4 desktop-container">
                             <p className="main-text">
                                 We all need to do business and stay connected to loved ones, regardless of what's happening in the world outside. Our applications
-                                are immediates, lightweight, and designed to reach peopel on the devices have today as well as the devices they'll have tomorrow
+                                are designed to be immediate, lightweight, and accessible to people on the devices have today as well as the devices they'll have tomorrow
                             </p>
                         </div>
                     </div>
@@ -201,7 +201,7 @@ export default function Home() {
                             <p className="desktop_section_title text-left">XREngine</p>
                             <p className="desktop_sub_title">The social multiplayer engine for the future</p>
                             <p className="main-text text-left">
-                                XREngine is a cross platform social engine for realtime voice, video, chat, avatars and computer vision. Built with scalability in mind on web standards, it's the fastest way to deliver scalable real-time apps.
+                                XREngine is a cross platform social engine for realtime voice, video, chat, avatars and computer vision. Built on web standards with scalability in mind, it's the fastest way to deliver scalable real-time apps.
                             </p>
                             <button className="main_button mt-5 mobile_none">Visit Project Page</button>
                         </div>
@@ -212,7 +212,7 @@ export default function Home() {
                 <div className="desktop-container row get_touch_div">
                     <div className="col-4 mt-50 get_touch_txt mobile-container">
                         <p className="desktop_section_title text-left">Get in touch</p>
-                        <p className="desktop_sub_title pr-5">Contact us for start of partnership</p>
+                        <p className="desktop_sub_title pr-5">Contact us to begin a partnership</p>
                         <img src="images/contact_rocket.png" className="mt-4 mobile_none contact_rocket"/>
                     </div>
                     <div className="col-8 contact_input_div mt-4 get_touch_input mobile-container">
@@ -255,7 +255,7 @@ export default function Home() {
                     </div>
                     <div className="col-7 pt-3 mobile-container terms-txt-div">
                         <span className="bottom_main_text">Terms of service&nbsp;</span>
-                        <span className="bottom_main_text">@ 2020 Laguna Labs Team. All Rights Reserved</span>
+                        <span className="bottom_main_text">@ 2021 Laguna Labs Team. All Rights Reserved</span>
                     </div>
                 </div>
             </div>
